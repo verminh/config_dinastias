@@ -1,0 +1,32 @@
+{
+  "ores": {
+    "droprate": 13,
+    "options": [
+      {
+        "id": "minecraft:iron",
+        "message": "+1 iron",
+        "chance": 32
+      },
+      {
+        "id": "minecraft:gold",
+        "message": "+1 gold",
+        "chance": 15
+      },
+      {
+        "id": "minecraft:diamond",
+        "message": "+1 diamond",
+        "chance": 10
+      },
+      {
+        "id": "minecraft:flint",
+        "message": "+1 flint",
+        "chance": 16
+      },
+      {
+        "id": "minecraft:coal",
+        "message": "+1 carvão",
+        "chance": 27
+      }
+    ]
+  }
+}
