@@ -1,6 +1,6 @@
 {
   "ores": {
-    "droprate": 13,
+    "droprate": 6,
     "options": [
       {
         "id": "minecraft:iron",
