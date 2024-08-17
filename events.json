@@ -1,9 +1,9 @@
 {
   "event": {
     "droprate": {
-      "enable": false,
+      "enable": true,
       "times": 17, 
-      "message": "ACABO PORRA"
+      "message": "2x Minérios até xx:xx"
     }
   }
 }
