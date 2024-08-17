@@ -1,9 +1,9 @@
 {
   "event": {
     "droprate": {
-      "enable": false,
-      "times": 2, 
-      "message": "2x Minérios até xx:xx"
+      "enable": true,
+      "times": 18, 
+      "message": "18X PIROCADAS NO COCUDO"
     }
   }
 }
