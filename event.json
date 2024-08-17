@@ -1,0 +1,9 @@
+{
+  "event": {
+    "droprate": {
+      "enable": true,
+      "spawn": 1,
+      "times": 100 
+    }
+  }
+}
