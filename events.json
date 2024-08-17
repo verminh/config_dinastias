@@ -1,7 +1,7 @@
 {
   "event": {
     "droprate": {
-      "enable": true,
+      "enable": false,
       "times": 17, 
       "message": "2x Mineração até xx:xx"
     }
