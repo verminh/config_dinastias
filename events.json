@@ -1,9 +1,9 @@
 {
   "event": {
     "droprate": {
-      "enable": true,
+      "enable": false,
       "times": 17, 
-      "message": "2x Minérios até xx:xx"
+      "message": "ACABOU"
     }
   }
 }
