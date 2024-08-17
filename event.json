@@ -3,7 +3,8 @@
     "droprate": {
       "enable": true,
       "spawn": 1,
-      "times": 100 
+      "times": 100, 
+      "message": "2x Minérios até xx:xx"
     }
   }
 }
