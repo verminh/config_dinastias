@@ -1,7 +1,7 @@
 {
   "event": {
     "droprate": {
-      "enable": true,
+      "enable": false,
       "times": 18, 
       "message": "18X PIROCADAS NO COCUDO"
     }
